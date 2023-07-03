@@ -1,1 +1,1 @@
-# GD
+# Graphic Designer
